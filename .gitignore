@@ -1,0 +1,19 @@
+# Node modules (root-level or backend-level)
+node_modules/
+.env
+.DS_Store
+*.log
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional OS/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Frontend build
+client/build
