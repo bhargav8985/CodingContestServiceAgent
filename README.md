@@ -22,10 +22,6 @@ An intelligent assistant that automatically emails users beautiful PDF summaries
 
 ## 🔐 Sign In Page Screenshot
 
-![Sign In](client/public/assets/ss2.png)
-
-## 🔐 Sign In Page Screenshot
-
 ![Sign In](client/public/assets/ss3.png)
 
 ## 📝 Sign Up Page Screenshot
